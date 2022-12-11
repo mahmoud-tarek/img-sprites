@@ -1,0 +1,16 @@
+#icons {
+    cursor: pointer;
+    width: 600px;
+}
+
+#stage {
+    width: 200px;
+    height: 188px;
+    /*
+    width: 600px;
+    height: 564px;
+
+    background-position-x: -200px;
+    background-position-y: -188px;
+    */
+}
